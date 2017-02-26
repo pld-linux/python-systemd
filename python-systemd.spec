@@ -8,7 +8,8 @@ Summary:	Systemd Python 2.x bindings
 Summary(pl.UTF-8):	Wiązania do Systemd dla Pythona 2.x
 Name:		python-%{module}
 Version:	233
-Release:	1
+Release:	2
+Epoch:		1
 License:	LGPL
 Group:		Development/Languages/Python
 Source0:	https://github.com/systemd/python-systemd/archive/v%{version}/%{name}-%{version}.tar.gz
